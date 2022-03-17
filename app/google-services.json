@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710166227377",
+    "project_id": "dream-team-5d79b",
+    "storage_bucket": "dream-team-5d79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710166227377:android:0e96072472ff81847fb590",
+        "android_client_info": {
+          "package_name": "com.zk.dreamteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710166227377-pb0h342qiscs6i6g067vo3si45e4kgil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zk.dreamteam",
+            "certificate_hash": "9244fe79748cc6bc570856a9ebd14218ba98155e"
+          }
+        },
+        {
+          "client_id": "710166227377-aecn6cgubjtuvaohq16g080c5oed24ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2-FJRcs_oq2FpnpL-ydxny6FVpzAhjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710166227377-aecn6cgubjtuvaohq16g080c5oed24ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
